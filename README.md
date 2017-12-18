@@ -1,0 +1,2 @@
+# whatCoin
+Guess the coin
